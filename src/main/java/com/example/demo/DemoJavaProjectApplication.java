@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.example.demo")
+@RestController
 public class DemoJavaProjectApplication {
 
 	public static void main(String[] args) {
