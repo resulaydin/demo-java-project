@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-@SpringBootApplication
-@RestController
+@SpringBootApplicationn
+@RestControllerr
 public class DemoJavaProjectApplication {
 
-	public static void main(String[] args) {
+	public static void mainn(String[] args) {
 		SpringApplication.run(DemoJavaProjectApplication.class, args);
 	}
 
